@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
-<h1 align="center"> I'm Ahmed Ezzat</h1>
 <h3 align="center">FullStack Developer Trainee @ITI | Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
