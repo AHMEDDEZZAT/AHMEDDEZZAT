@@ -13,29 +13,29 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 
 ### 🌐 Connect with Me
 
-<div style="display: flex; flex-direction: column; gap: 12px;">
+<div style="display: flex; flex-direction: column; gap: 16px; margin-top: 8px;">
   <!-- LinkedIn -->
-  <div style="display: flex; align-items: center; gap: 12px;">
+  <div style="display: flex; align-items: center; gap: 16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="24" height="24" style="object-fit: contain;">
-    <div style="display: flex; align-items: center; gap: 6px;">
-      <span style="font-weight: bold;">➜</span>
+         alt="LinkedIn" width="40" height="40" style="object-fit: contain;">
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <span style="font-weight: bold; font-size: 18px;">➜</span>
       <a href="https://linkedin.com/in/ahmeedezzat" 
          target="_blank" 
-         style="text-decoration: none; color: inherit;">
+         style="text-decoration: none; color: inherit; font-size: 17px;">
         linkedin.com/in/ahmeedezzat
       </a>
     </div>
   </div>
   
   <!-- Gmail -->
-  <div style="display: flex; align-items: center; gap: 12px;">
+  <div style="display: flex; align-items: center; gap: 16px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Gmail" width="24" height="24" style="object-fit: contain;">
-    <div style="display: flex; align-items: center; gap: 6px;">
-      <span style="font-weight: bold;">➜</span>
+         alt="Gmail" width="40" height="40" style="object-fit: contain;">
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <span style="font-weight: bold; font-size: 18px;">➜</span>
       <a href="mailto:ahmeedezzat1155@gmail.com" 
-         style="text-decoration: none; color: inherit;">
+         style="text-decoration: none; color: inherit; font-size: 17px;">
         ahmeedezzat1155@gmail.com
       </a>
     </div>
