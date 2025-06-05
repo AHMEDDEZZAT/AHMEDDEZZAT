@@ -14,7 +14,7 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 ### 🌐 Connect with Me
 
 <p>
-  <span style="display: inline-flex; align-items: center; margin-bottom: 10px; gap: 12px;">
+  <span style="display: inline-flex; align-items: center; margin-bottom: 15px; gap: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
     <span style="display: inline-flex; align-items: center; gap: 8px;">
       <span style="font-weight: bold;">➜</span>
