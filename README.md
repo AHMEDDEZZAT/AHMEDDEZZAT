@@ -3,6 +3,23 @@
 
 ---
 
+### 🧠 Summary
+Software Developer Proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful APIs, Entity Framework, SQL Server, and LINQ. skilled in Angular, JavaScript, jQuery, Bootstrap, HTML5, and CSS3. Strong foundation in OOP, SOLID principles, design patterns, data structures, and algorithms.
+
+---
+
+### 📫 How to Reach Me
+- 📧 **Email:** [ahmeedezzat.dev@gmail.com](mailto:ahmeedezzat.dev@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ahmeedezzat](https://linkedin.com/in/ahmeedezzat)
+
+---
+
+### 📄 My Resume / CV
+- 📝 **CV Link:** [Download My CV](https://drive.google.com/file/d/16-SN-p9BhcthegjUEf1nTf4ulyjUDTJB/view?usp=drive_link)  
+  > *Tip: Upload your CV to Google Drive or GitHub and set the share link here.*
+
+---
+
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/ahmeedezzat" target="_blank">
