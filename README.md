@@ -13,36 +13,32 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 
 ### 🌐 Connect with Me
 
-### 🌐 Connect with Me
-
-<div style="display: flex; gap: 20px; margin-top: 12px;">
-  <!-- LinkedIn -->
+<div style="display: flex; gap: 24px; justify-content: center; margin: 16px 0;">
+  <!-- LinkedIn Icon -->
   <a href="https://linkedin.com/in/ahmeedezzat" 
      target="_blank"
-     aria-label="Connect on LinkedIn"
-     data-platform="linkedin"
-     style="display: inline-block;">
+     aria-label="My LinkedIn profile"
+     data-network="linkedin"
+     style="transition: all 0.3s ease;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" 
          width="40" 
          height="40"
-         style="transition: transform 0.2s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'">
+         style="filter: brightness(0.9); transition: all 0.3s ease;"
+         onmouseover="this.style.filter='brightness(1.1)'"
+         onmouseout="this.style.filter='brightness(0.9)'">
   </a>
   
-  <!-- Gmail -->
+  <!-- Email Icon -->
   <a href="mailto:ahmeedezzat1155@gmail.com"
-     aria-label="Send email"
-     data-platform="email"
-     style="display: inline-block;">
+     aria-label="Send me an email"
+     data-network="email"
+     style="transition: all 0.3s ease;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Email" 
          width="40" 
          height="40"
-         style="transition: transform 0.2s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'">
+         style="filter: brightness(0.9); transition: all 0.3s ease;"
+         onmouseover="this.style.filter='brightness(1.1)'"
+         onmouseout="this.style.filter='brightness(0.9)'">
   </a>
 </div>
  
