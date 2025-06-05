@@ -13,21 +13,19 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 
 ### 🌐 Connect with Me
 
-### 🌐 Connect with Me
-
-<p style="margin-bottom: 12px; display: flex; align-items: center; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-  <span style="display: flex; align-items: center; gap: 8px;">
-    <span style="font-weight: bold;">➜</span>
-    <a href="https://linkedin.com/in/ahmeedezzat" target="_blank" style="text-decoration: none; color: inherit;">linkedin.com/in/ahmeedezzat</a>
+<p style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
+  <span style="display: flex; align-items: center; gap: 8px; font-size: 16px; line-height: 30px;">
+    <span style="font-weight: bold; line-height: 30px;">➜</span>
+    <a href="https://linkedin.com/in/ahmeedezzat" target="_blank" style="text-decoration: none; color: inherit; line-height: 30px;">linkedin.com/in/ahmeedezzat</a>
   </span>
 </p>
 
-<p style="margin-bottom: 12px; display: flex; align-items: center; gap: 12px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" />
-  <span style="display: flex; align-items: center; gap: 8px;">
-    <span style="font-weight: bold;">➜</span>
-    <a href="mailto:ahmeedezzat1155@gmail.com" style="text-decoration: none; color: inherit;">ahmeedezzat1155@gmail.com</a>
+<p style="display: flex; align-items: center; gap: 12px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" style="vertical-align: middle;" />
+  <span style="display: flex; align-items: center; gap: 8px; font-size: 16px; line-height: 30px;">
+    <span style="font-weight: bold; line-height: 30px;">➜</span>
+    <a href="mailto:ahmeedezzat1155@gmail.com" style="text-decoration: none; color: inherit; line-height: 30px;">ahmeedezzat1155@gmail.com</a>
   </span>
 </p>
 
