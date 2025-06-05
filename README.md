@@ -13,32 +13,30 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 
 ### 🌐 Connect with Me
 
-<div style="display: flex; gap: 24px; justify-content: center; margin: 16px 0;">
-  <!-- LinkedIn Icon -->
+<div style="display: flex; gap: 24px; margin: 12px 0;">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ahmeedezzat" 
      target="_blank"
-     aria-label="My LinkedIn profile"
-     data-network="linkedin"
-     style="transition: all 0.3s ease;">
+     aria-label="LinkedIn"
+     data-network="linkedin">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          width="40" 
          height="40"
-         style="filter: brightness(0.9); transition: all 0.3s ease;"
-         onmouseover="this.style.filter='brightness(1.1)'"
-         onmouseout="this.style.filter='brightness(0.9)'">
+         style="transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'">
   </a>
   
-  <!-- Email Icon -->
+  <!-- Gmail -->
   <a href="mailto:ahmeedezzat1155@gmail.com"
-     aria-label="Send me an email"
-     data-network="email"
-     style="transition: all 0.3s ease;">
+     aria-label="Email"
+     data-network="email">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
          width="40" 
          height="40"
-         style="filter: brightness(0.9); transition: all 0.3s ease;"
-         onmouseover="this.style.filter='brightness(1.1)'"
-         onmouseout="this.style.filter='brightness(0.9)'">
+         style="transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
  
