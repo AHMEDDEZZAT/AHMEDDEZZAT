@@ -12,13 +12,12 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 <p align="left"> <a href="https://drive.google.com/file/d/16-SN-p9BhcthegjUEf1nTf4ulyjUDTJB/view?usp=drive_link" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="CV Icon" width="40" height="40"/> </a> </p>
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ahmeedezzat" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:ahmeedezzat1155@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Icon" width="40" height="45" />  </a>
-</p>
+<p align="left"> <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ahmeedezzat" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" /> <span> linkedin.com/in/ahmeedezzat</span> </a> <br/> 
+  <!-- Email --> 
+  <a href="mailto:ahmeedezzat1155@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" /> <span> ahmeedezzat1155@gmail.com</span> </a> </p>
 
 ---
 
