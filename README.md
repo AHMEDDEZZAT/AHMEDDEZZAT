@@ -12,11 +12,27 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 <p align="left"> <a href="https://drive.google.com/file/d/16-SN-p9BhcthegjUEf1nTf4ulyjUDTJB/view?usp=drive_link" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="CV Icon" width="40" height="40"/> </a> </p>
 
 ### 🌐 Connect with Me
-<p> <span style="display: inline-flex; align-items: center; margin-bottom: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 8px;"> ➜&nbsp;<a href="https://linkedin.com/in/ahmeedezzat" target="_blank">linkedin.com/in/ahmeedezzat</a> 
-</p> <p> <span style="display: inline-flex; align-items: center; margin-bottom: 8px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" style="margin-right: 8px;"> ➜&nbsp;<a href="mailto:ahmeedezzat1155@gmail.com">ahmeedezzat1155@gmail.com</a> </span> </p>
----
+
+<p>
+  <span style="display: inline-flex; align-items: center; margin-bottom: 8px; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <span style="font-weight: bold;">➜</span>
+      <a href="https://linkedin.com/in/ahmeedezzat" target="_blank" style="text-decoration: none; color: inherit;">linkedin.com/in/ahmeedezzat</a>
+    </span>
+  </span>
+</p>
+
+<p>
+  <span style="display: inline-flex; align-items: center; margin-bottom: 8px; gap: 12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" />
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <span style="font-weight: bold;">➜</span>
+      <a href="mailto:ahmeedezzat1155@gmail.com" style="text-decoration: none; color: inherit;">ahmeedezzat1155@gmail.com</a>
+    </span>
+  </span>
+</p>
+
 
 ### 🛠️ Languages & Tools
 <p align="left">
