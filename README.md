@@ -13,34 +13,39 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
 
 ### 🌐 Connect with Me
 
-<div style="display: flex; flex-direction: column; gap: 16px; margin-top: 8px;">
+### 🌐 Connect with Me
+
+<div style="display: flex; gap: 20px; margin-top: 12px;">
   <!-- LinkedIn -->
-  <div style="display: flex; align-items: center; gap: 16px;">
+  <a href="https://linkedin.com/in/ahmeedezzat" 
+     target="_blank"
+     aria-label="Connect on LinkedIn"
+     data-platform="linkedin"
+     style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="40" height="40" style="object-fit: contain;">
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="font-weight: bold; font-size: 18px;">➜</span>
-      <a href="https://linkedin.com/in/ahmeedezzat" 
-         target="_blank" 
-         style="text-decoration: none; color: inherit; font-size: 17px;">
-        linkedin.com/in/ahmeedezzat
-      </a>
-    </div>
-  </div>
+         alt="LinkedIn" 
+         width="40" 
+         height="40"
+         style="transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'">
+  </a>
   
   <!-- Gmail -->
-  <div style="display: flex; align-items: center; gap: 16px;">
+  <a href="mailto:ahmeedezzat1155@gmail.com"
+     aria-label="Send email"
+     data-platform="email"
+     style="display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Gmail" width="40" height="40" style="object-fit: contain;">
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="font-weight: bold; font-size: 18px;">➜</span>
-      <a href="mailto:ahmeedezzat1155@gmail.com" 
-         style="text-decoration: none; color: inherit; font-size: 17px;">
-        ahmeedezzat1155@gmail.com
-      </a>
-    </div>
-  </div>
+         alt="Email" 
+         width="40" 
+         height="40"
+         style="transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
+ 
 
 
 ### 🛠️ Languages & Tools
