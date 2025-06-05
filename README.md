@@ -16,11 +16,8 @@ Software Developer proficient in C#, C++, ASP.NET Core (MVC, Web API), RESTful A
   <a href="https://linkedin.com/in/ahmeedezzat" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
-  <a href="mailto:ahmeedezzat.dev@gmail.com" target="_blank">
+  <a href="mailto:ahmeedezzat1155@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="35" height="35"/>
-  </a>
-  <a href="https://drive.google.com/file/d/16-SN-p9BhcthegjUEf1nTf4ulyjUDTJB/view?usp=drive_link" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume" width="35" height="35"/>
   </a>
 </p>
 
